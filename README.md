@@ -1,0 +1,8 @@
+# Hi, I'm juhyeong Cho
+
+경희대학교 컴퓨터공학과 26학번
+
+## Interests
+-AI
+-Web
+-App
