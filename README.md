@@ -6,3 +6,7 @@
 -AI
 -Web
 -App
+
+## Tech stack
+-python
+-c++
